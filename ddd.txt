@@ -1,0 +1,2 @@
+This is a testfile of Git.
+Can it work well with Chinese?
